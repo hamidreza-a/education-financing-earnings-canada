@@ -1,0 +1,1 @@
+The dataset used in this study is derived from Canada’s 2020 National Graduates Survey (NGS). Supplementary earnings information is based on the 2023 Labour Force Survey (LFS). The Python code used for data analysis is also included in this folder.
